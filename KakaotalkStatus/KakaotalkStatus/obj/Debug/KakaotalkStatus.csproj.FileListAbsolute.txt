@@ -1,0 +1,10 @@
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.csproj.AssemblyReference.cache
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.Form1.resources
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.Properties.Resources.resources
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.csproj.GenerateResource.cache
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.csproj.CoreCompileInputs.cache
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\bin\Debug\KakaotalkStatus.exe.config
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\bin\Debug\KakaotalkStatus.exe
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\bin\Debug\KakaotalkStatus.pdb
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.exe
+C:\Users\kim62\source\repos\KakaotalkStatus\KakaotalkStatus\obj\Debug\KakaotalkStatus.pdb
